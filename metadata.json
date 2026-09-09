@@ -1,0 +1,6 @@
+{
+  "name": "The Anamorphic Engine",
+  "description": "Interactive GPU vector field simulation and anamorphic rendering engine with WebGPU and WebGL2 fallback.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
